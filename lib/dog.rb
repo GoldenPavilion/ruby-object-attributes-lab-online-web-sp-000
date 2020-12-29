@@ -1,2 +1,3 @@
-class Dog 
+class Dog
+  def initialize 
 end
